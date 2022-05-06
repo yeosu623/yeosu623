@@ -1,7 +1,5 @@
-### Hi there 👋
-
-Django로 웹페이지를 만들어 보고 있습니다.
-(프로필 화면은 나중에 또 수정 및 추가 예정)
+###Django로 웹페이지를 만들어 보고 있습니다.
+###(프로필 화면은 나중에 또 수정 및 추가 예정)
 
 <!--
 **yeosu623/yeosu623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
