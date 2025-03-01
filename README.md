@@ -6,7 +6,7 @@
 <div align='center'> Portfolio : <a href="https://www.notion.so/Ctrl-Z-1a9979308de280589ad0c1b5ebb337c5">Notion Link</a></div>
 <div align='center'> Blog : <a href="https://yeosu623.github.io/">https://yeosu623.github.io/</a></div>
 <br>
-<p align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
