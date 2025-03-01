@@ -7,6 +7,6 @@
 <div align='center'> Blog : <a href="https://yeosu623.github.io/">https://yeosu623.github.io/</a></div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![yeosu623's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeosu623&show_icons=true&theme=radical)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
