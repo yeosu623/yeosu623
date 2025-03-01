@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Louis's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=yeosu623's-nl-playground&fontSize=50&animation=fadeIn&fontAlignY=30" />
   </p>
-<div align='center'> 🖥열심히 현업에서 달리고 있는 신입 백엔드 개발자입니다.</div>
+<div align='center'> 🖥과거의 경험으로 새로운 것을 배우는 임베디드 개발자입니다.</div>
 <br>
-<div align='center'> Email : yukina1418@gmail.com</div>
-<div align='center'> Blog : <a href="https://velog.io/@yukina1418">https://velog.io/@yukina1418</a></div>
+<div align='center'> Email : yeosu623@naver.com</div>
+<div align='center'> Blog : <a href="https://yeosu623.github.io/">https://yeosu623.github.io/</a></div>
 <br>
 <p align="center">
 🍚&nbsp&nbsp&nbsplanguages
