@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=yeosu623's-nl-playground&fontSize=50&animation=fadeIn&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=yeosu623's%20playground&fontSize=50&animation=fadeIn&fontAlignY=45" />
   </p>
 <div align='center'> 🖥과거의 경험으로 새로운 것을 배우는 임베디드 개발자입니다.</div>
 <br>
