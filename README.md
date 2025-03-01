@@ -7,7 +7,4 @@
 <div align='center'> Blog : <a href="https://yeosu623.github.io/">https://yeosu623.github.io/</a></div>
 <br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/yeosu623)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
