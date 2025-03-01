@@ -4,7 +4,7 @@
 <br>
 <div align='center'> Email : yeosu623@naver.com</div>
 <div align='center'> Portfolio : <a href="https://www.notion.so/Ctrl-Z-1a9979308de280589ad0c1b5ebb337c5">Notion Link</a></div>
-<div align='center'> Blog : <a href="https://velog.io/@yeosu623/posts">https://velog.io/@yeosu623/posts</a></div>
+<div align='center'> Blog : <a href="https://velog.io/@yeosu623">https://velog.io/@yeosu623</a></div>
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
