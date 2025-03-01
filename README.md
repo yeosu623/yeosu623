@@ -7,6 +7,6 @@
 <div align='center'> Blog : <a href="https://yeosu623.github.io/">https://yeosu623.github.io/</a></div>
 <br>
 
-[![https://solved.ac/profile/yeosu623](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![https://solved.ac/profile/yeosu623](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/profile/yeosu623)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
